@@ -1,4 +1,4 @@
-***welcome to my portfolio***
+***Welcome to my Portfolio***
 
 ---
  ***ABOUT ME***

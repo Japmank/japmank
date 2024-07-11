@@ -1,16 +1,25 @@
-## Hi there 👋
+#Welcome to my portfolio
 
-<!--
-**Japmank/japmank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ ***ABOUT ME***
+ ---
+ I am Japmanpreet kaur from District-Fazilka. I have completed my secondary education from Panacea sr. sec.public school, currently persuing my Btech. at Guru Nanak Dev Engineering College, Ludhiana.   
 
-Here are some ideas to get you started:
+ ---
+ ***SKILLS***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ > - c
+>  - html
+>  - c++
+
+---
+***extra curricular activities***
+---
+>singing
+>dance
+
+
+   
+ 
+
